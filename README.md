@@ -12,4 +12,4 @@ Users could play the background music of Mario Bros Theme Song in the Home page 
 clicking play button and pause it by clicking pause button. If users click the Tutorial Video in
 Tutorials page, it will link to the YouTube Video that explains the topic.
 
-This project is created as our final project in Multimedia Systems course.
+This project is created as our final project in Multimedia Systems course. The deployed website can be accessed from this [link](https://randyyz.github.io/MulmedProject/main.html).
